@@ -15,6 +15,7 @@ disk-inventory-x google-drive bettertouchtool nosleep google-hangouts \
 google-notifier google-refine google-plus-auto-backup sourcetree \
 pgadmin3 spotify virtualbox xquartz textwrangler
 
+brew linkapps
 brew cask alfred link
 
 mv .zshrc .bashrc
