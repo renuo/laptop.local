@@ -1,7 +1,7 @@
 #!/bin/sh
 
 brew install git git-flow autojump nmap gnuplot libpng ssh-copy-id \
-cmake curlftpfs ctags ffmpeg flac freetype gettext ghostscript \
+cmake ctags ffmpeg flac freetype gettext ghostscript \
 gnupg gnutls gource htop-osx imagemagick librsync libtiff \
 libxml2 libyaml lzlib postgis qt readline ruby-build rbenv sqlite \
 tree watch x264 xvid wget
@@ -14,3 +14,4 @@ filezilla gimp java7 atom caffeine mou toggldesktop vlc dash \
 disk-inventory-x google-drive bettertouchtool nosleep google-hangouts \
 google-notifier google-refine google-plus-auto-backup sourcetree \
 pgadmin3 spotify virtualbox 
+
