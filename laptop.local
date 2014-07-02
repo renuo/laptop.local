@@ -16,3 +16,5 @@ google-notifier google-refine google-plus-auto-backup sourcetree \
 pgadmin3 spotify virtualbox xquartz
 
 brew cask alfred link
+
+curl -L http://install.ohmyz.sh | sh
