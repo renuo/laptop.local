@@ -11,9 +11,11 @@ brew install brew-cask
 
 brew tap caskroom/versions
 brew cask install java6
+brew cask install java7
+brew cask install java
 
 brew cask install google-chrome rdio firefox rubymine alfred \
-filezilla gimp java atom caffeine mou toggldesktop vlc dash \
+filezilla gimp atom caffeine mou toggldesktop vlc dash \
 disk-inventory-x google-drive bettertouchtool nosleep google-hangouts \
 google-notifier google-refine google-plus-auto-backup sourcetree \
 pgadmin3 spotify virtualbox xquartz textwrangler
