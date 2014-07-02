@@ -11,5 +11,7 @@ bash <(curl -s https://raw.githubusercontent.com/thoughtbot/laptop/master/mac)
 
 ## Install MacVim
 
-* Install Xcode
-* ```sh brew install macvim```
+```sh
+xcode-select --install      # choose "Get Xcode"
+brew install macvim
+```
