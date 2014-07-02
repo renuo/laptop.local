@@ -5,8 +5,8 @@ plugins=(git git-flow jsontools lol mvn npm nyan osx rand-quote sbt scala screen
 # Add this to the end of the file, adjust it to your preference
 export PGDATA=/usr/local/var/postgres
 export LC_CTYPE=en_US.UTF-8
-export EDITOR=vim
-export VISUAL=vim
+export EDITOR=mvim
+export VISUAL=mvim
 export LANGUAGE="en_US.UTF-8"
 export LANG="en_US.UTF-8"
 export LC_ALL="en_US.UTF-8"
