@@ -17,4 +17,6 @@ pgadmin3 spotify virtualbox xquartz textwrangler
 
 brew cask alfred link
 
+mv .zshrc .bashrc
 curl -L http://install.ohmyz.sh | sh
+cat .bashrc >> .zshrc
