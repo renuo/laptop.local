@@ -20,4 +20,4 @@ brew install macvim
 
 ## Adjust .zshrc
 
-https://github.com/renuo/laptop.local/blob/master/zsh_additions
+https://github.com/renuo/laptop.local/blob/master/zsh_additions.sh
