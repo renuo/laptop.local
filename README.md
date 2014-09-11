@@ -6,7 +6,7 @@ Based on https://github.com/thoughtbot/laptop
 
 ```sh
 curl https://raw.githubusercontent.com/renuo/laptop.local/master/laptop.local > .laptop.local
-# Install XCode from the app store (old: #sudo xcodebuild -license #xcode-select --install)
+# Manually install XCode from the app store (old: #sudo xcodebuild -license #xcode-select --install)
 bash <(curl -s https://raw.githubusercontent.com/thoughtbot/laptop/master/mac) 2>&1 | tee ~/laptop.log
 ```
 
