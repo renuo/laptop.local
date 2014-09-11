@@ -21,6 +21,7 @@ filezilla gimp atom caffeine mou toggldesktop vlc dash \
 disk-inventory-x google-drive bettertouchtool nosleep google-hangouts \
 google-notifier google-refine google-plus-auto-backup sourcetree \
 pgadmin3 spotify virtualbox xquartz textwrangler spectacle iterm2
+brew cask install vagrant
 
 brew linkapps
 brew cask alfred link
