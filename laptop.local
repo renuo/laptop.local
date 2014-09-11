@@ -5,6 +5,8 @@ cmake ctags ffmpeg flac freetype gettext ghostscript \
 gnupg gnutls gource htop-osx imagemagick librsync libtiff \
 libxml2 libyaml lzlib postgis qt readline ruby-build rbenv sqlite \
 tree watch x264 xvid wget mackup
+brew install node
+brew install macvim
 
 brew tap caskroom/cask
 brew install brew-cask
