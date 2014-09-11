@@ -22,6 +22,7 @@ disk-inventory-x google-drive bettertouchtool nosleep google-hangouts \
 google-notifier google-refine google-plus-auto-backup sourcetree \
 pgadmin3 spotify virtualbox xquartz textwrangler spectacle iterm2
 brew cask install vagrant
+brew cask install sequel-pro
 
 brew linkapps
 brew cask alfred link
