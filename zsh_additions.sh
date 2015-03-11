@@ -1,5 +1,5 @@
 # Place this at the correct place
-plugins=(git git-flow jsontools lol mvn npm nyan osx rand-quote sbt scala screen coffee dircycle encode64 bundler brew gem rails svn rake battery cp emoji-clock git-extras github heroku python)
+plugins=(git git-flow autojump jsontools lol mvn npm nyan osx rand-quote sbt scala screen coffee dircycle encode64 bundler brew gem rails svn rake battery cp emoji-clock git-extras github heroku python)
 
 
 # Add this to the end of the file, adjust it to your preference
